@@ -27,7 +27,6 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
-<img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />
 <img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/markdown/markdown.png" />
 <img align="left" alt="Latex" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png" />
