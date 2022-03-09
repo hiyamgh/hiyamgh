@@ -40,7 +40,7 @@
 
 ##
 
-<img align="left" alt="Hiyam's Github Stats" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)"/>
+<img align="left" alt="Hiyam's Github Stats" src="![Hiyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyamgh&count_private=true)"/>
 
 
 
