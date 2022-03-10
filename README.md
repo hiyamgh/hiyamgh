@@ -1,4 +1,5 @@
 ### Hi there, I'm Hiyam 👋
+![](https://komarev.com/ghpvc/?username=hiyamgh)
 
 ## I'm a Researcher and a Data Scientist!
 
