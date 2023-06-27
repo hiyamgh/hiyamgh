@@ -11,7 +11,7 @@
 
 [<img align="left" alt="Hiyam Ghannam | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
 [<img align="left" alt="Hiyam Ghannam | Twitter" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" />][twitter]
-[<img align="left" alt="Hiyam Ghannam | LinkedIn" width="22px" src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=linkedin&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F461814.png&width=24&height=24" />][linkedin]
+[<img align="left" alt="Hiyam Ghannam | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />][linkedin]
 [<img align="left" alt="Hiyam Ghannam | Scholar" width="22px" src="https://icon-icons.com/downloadimage.php?id=130918&root=2108/PNG/32/&file=google_scholar_icon_130918.png" />][scholar]
 [<img align="left" alt="Hiyam Ghannam | Research Gate" width="22px" src="https://icon-icons.com/downloadimage.php?id=130843&root=2108/PNG/512/&file=researchgate_icon_130843.png" />][researchgate]
 <br />
