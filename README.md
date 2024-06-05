@@ -36,10 +36,7 @@
 <br />
 
 ##
-
-<img align="left" alt="Hiyam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hiyamgh&show_icons=true&hide_border=true&hide=prs&count_private=true" />
-
-![Hiyams's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyamgh&show_icons=true&theme=transparent)
+[![Hiyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyamgh&include_all_commits=true&theme=aura)](https://github.com/hiyamgh/github-readme-stats)
 
 
 [email]: mailto:hiyam.ghannam@gmail.com
